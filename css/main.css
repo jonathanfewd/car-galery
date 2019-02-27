@@ -1,0 +1,24 @@
+body{
+    background: black;
+}
+h1, h2{
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+.makes{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+
+}
+.makes img{
+    width: 300px;
+    margin-top: 40px;
+}
+img.ford{
+    margin-top: -25px!important;
+}
