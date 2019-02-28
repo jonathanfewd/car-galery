@@ -12,7 +12,8 @@ h1{
     font-size: 50px;
     text-transform: uppercase;
     color: white;
-    background: #4b4849;
+    background: black;
+    border-bottom: 1px dashed white;
 }
 
 div.slider{
@@ -63,9 +64,9 @@ div.slider{
 }    
 .makes{
     width: 90%;
-    margin: auto;
+    margin: 100px auto;
     text-align: center;
-
+    
 }
 .makes img{
     width: 200px;
